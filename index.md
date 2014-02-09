@@ -6,7 +6,7 @@ filename: index.md
 title: Project Open Data
 ---
 
-##1. Background
+##1. مقدمه
 
 Data is a valuable national resource and a strategic asset to the U.S. Government, its partners, and the public.  Managing this data as an asset and making it available, discoverable, and usable – [in a word, open](principles/) – not only strengthens our democracy and promotes efficiency and effectiveness in government, but also has the potential to create economic opportunity and improve citizens’ quality of life. 
 
