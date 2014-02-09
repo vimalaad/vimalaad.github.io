@@ -3,7 +3,7 @@ published: true
 permalink: /
 layout: hero
 filename: index.md
-title: Project Open Data
+title: توسعه نرم افزار مدلسازی فرآیند (آزمایشگاه دانا)
 ---
 
 ##1. مقدمه
