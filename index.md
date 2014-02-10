@@ -3,11 +3,17 @@ published: true
 permalink: /
 layout: hero
 filename: index.md
-title: توسعه نرم افزار مدلسازی فرآیند (آزمایشگاه دانا)
+title: DANA Laboratory for process modeling 
 ---
 
 ##1. مقدمه
 
+مدلسازي تجهيزات فرآيندي در صنعت مهم نفت يکي از رهيافت هاي بنيادي جهت کسب دانش فني و توسعه نرم افزاري اين صنعت به شمار مي آيد. 
+ فعاليت بخش هاي مختلف اين صنعت نظير طراحي، بهينه سازي، مديرت پروژه ها و کنترل فرآيند بدون در اختيار داشتن نرم افزارهاي تخصصي لازم امکان پذير نمي باشند.
+ اما توسعه نرم افزارهاي کاربردي نياز به طراحي ماژولهاي زيربنايي مانند مدلسازي تجهيزات، شبيه سازي فرآيند، محاسبه خواص ترموفيزيکي سيالات فرآيندي و واسط هاي کاربري مربوطه دارد.
+ توسعه چنين نرم افزارهايي حوزه هاي وسيعي از علوم مهندسي را به کار مي طلبند.
+ محاسبات عددي، ترموديناميک، مکانيک سيالات، طراحي مبدلها، توبربوماشين تنها بخشي از تخصصهاي لازم در مهندسي مکانيک مي باشد که حضورشان لازمه طراحي مدلهاي مناسبي از تجهيزات فرآيندي مي باشند.
+ دروس تخصصي در مهندسي شيمي، کامپيوتر و برق نيز در بخشهاي مهمي از پياده سازي چنين نرم افزارهايي کاربرد دارند.
 Data is a valuable national resource and a strategic asset to the U.S. Government, its partners, and the public.  Managing this data as an asset and making it available, discoverable, and usable – [in a word, open](principles/) – not only strengthens our democracy and promotes efficiency and effectiveness in government, but also has the potential to create economic opportunity and improve citizens’ quality of life. 
 
 For example, when the U.S. Government released weather and GPS data to the public, it fueled an industry that today is valued at tens of billions of dollars per year. Now, weather and mapping tools are ubiquitous and help everyday Americans [navigate their lives](business-case/). 
