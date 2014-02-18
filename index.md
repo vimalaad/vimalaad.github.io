@@ -6,6 +6,10 @@ filename: index.md
 title: DANA Laboratory for process modeling 
 ---
 
+[DANA-Laboratory Client](/DANA-Laboratory.java)
+
+[DANA-Laboratory Server](/DANA-Laboratory.jl)
+
 ##1. مقدمه
 
 مدلسازي تجهيزات فرآيندي در صنعت مهم نفت يکي از رهيافت هاي بنيادي جهت کسب دانش فني و توسعه نرم افزاري اين صنعت به شمار مي آيد. 
