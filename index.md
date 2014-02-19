@@ -5,10 +5,8 @@ layout: hero
 filename: index.md
 title: DANA Laboratory for process modeling 
 ---
-
-[DANA-Laboratory Client](/DANA-Laboratory.java)
-
-[DANA-Laboratory Server](/DANA-Laboratory.jl)
+[![alt text](/assets/img/DANA_ServerSmall.png "DANA-Laboratory Client Site")](/DANA-Laboratory.java)
+[![alt text](/assets/img/DANA_ClientSmall.png "DANA-Laboratory Server Site")](/DANA-Laboratory.jl)
 
 ##1. مقدمه
 
